@@ -1,7 +1,7 @@
 # Site settings
 title: CSCI7000-11 Spring 2023
 subtitle: Principles of Functional Programming
-baseurl: "/csci7000_s23" # the subpath of your site, e.g. /blog/
+baseurl: "/csci7000_pfp_s23" # the subpath of your site, e.g. /blog/
 url: "http://gowthamk.github.io" # the base hostname & protocol for your site
 syllabus: ""
 githubdir: "gowthamk/csci7000_pfp_s23"
