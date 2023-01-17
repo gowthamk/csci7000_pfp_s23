@@ -1,1 +1,1 @@
-# CSCI 5535 & ECEN 5533: Fundamentals of Programming Languages
+# CSCI7000-11: Principles of Functional Programming, Spring 2023 Edition.
