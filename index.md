@@ -12,7 +12,7 @@ layout: default
 > programming is not worth knowing.
 
 <div align="right">  
--- Alan Perlis, First recepient of Turing Award, 1966.
+-- Alan Perlis, First recipient of Turing Award, 1966.
 </div>
 
 There is a theory in Linguistics called *Linguistic Relativity* that
@@ -28,18 +28,21 @@ Garbage Collection, Type Systems, Lambdas, and MapReduce, that have
 together shaped the modern approach to programming. Indeed, functional
 languages are breeding grounds of new ideas that eventually make their
 way into mainstream programming. Why not be ahead of the curve and be
-a pioneer yourself? This course teaches you functional programming
-through the lens of [OCaml](https://ocaml.org/), and introduces you to
-novel programming abstractions and techniques that change the way you
-approach problem-solving, and help you write efficient, maintainable,
-and correct code.  
+a pioneer yourself? This course helps you do precisely that. It teaches you functional programming
+through the lens of [OCaml](https://ocaml.org/) and introduces you to
+novel programming abstractions and techniques that, at the very least, 
+help you write efficient, maintainable, and correct code, and at best,
+give you a fresh perspective on approaching hard programming problems.
 
 ## Classroom and Office Hours
 
 * **Instructor:** [Gowtham Kaki](http://gowthamk.github.io).
 * **Where:** ECCS 1B14 
 * **When:** M,W,F 10:10 - 11:00 AM
-* **Office Hours**: On [Piazza](https://piazza.com/colorado/spring2023/csci7000-pfp) or by appointment.
+* **Zoom:** <https://cuboulder.zoom.us/j/91236061034>. Email me for
+  the passcode.
+* **Office Hours**: On
+  [Piazza](https://piazza.com/colorado/spring2023/csci700011) or by appointment.
 * **Canvas:** <https://canvas.colorado.edu/courses/92609>
 
 ## Textbook
