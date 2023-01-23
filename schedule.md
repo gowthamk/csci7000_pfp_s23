@@ -17,7 +17,8 @@ permalink: /schedule/
     <td class="tg-baqh">1</td>
     <td class="tg-0lax">1/18 - 1/20</td>
     <td class="tg-0lax">Introduction to FP: Expressions, Types, Functions, Algebraic Data Types (ADTs)</td> 
-    <td class="tg-0lax"><a href="../lectures/Lec1.ipynb">Lec1</a></td>
+    <td class="tg-0lax"><a
+    href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec1_intro">Lec1</a></td>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">2</td>
@@ -25,7 +26,10 @@ permalink: /schedule/
     <td class="tg-0lax">
       Higher-order functions, Combinators, Polymorphism, Modules & Functors.
     </td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">
+    <a
+    href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>
+    </td>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">3</td>
