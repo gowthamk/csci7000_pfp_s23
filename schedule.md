@@ -27,11 +27,11 @@ permalink: /schedule/
       Higher-order functions, Combinators, Polymorphism, Modules & Functors.
     </td>
     <td class="tg-0lax">
-    <a
-    href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>
+      <a
+      href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>
+      <a
+      href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec3_functions">Lec3</a>
     </td>
-    <a
-    href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec3_functions">Lec3</a>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">3</td>
