@@ -28,7 +28,7 @@ permalink: /schedule/
     </td>
     <td class="tg-0lax">
       <a
-      href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>
+      href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>,
       <a
       href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec3_functions">Lec3</a>
     </td>
