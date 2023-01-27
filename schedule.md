@@ -30,6 +30,8 @@ permalink: /schedule/
     <a
     href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec2_expressions">Lec2</a>
     </td>
+    <a
+    href="https://github.com/gowthamk/csci7000_pfp_s23/tree/gh-pages/lectures/lec3_functions">Lec3</a>
   </tr>
   <tr class="lecture">
     <td class="tg-baqh">3</td>
